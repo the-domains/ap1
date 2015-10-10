@@ -1,6 +1,7 @@
 name: Ap1
 favicon: null
 layout_spectrum: 0.99162
+typography_spectrum: 0.52241
 title: Apartamento 101
 cta:
   domain: null
@@ -22,8 +23,8 @@ color:
     - '#9c9897'
     - '#d9d8d6'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose:
   - name: follow
