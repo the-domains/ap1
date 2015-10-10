@@ -1,12 +1,13 @@
 name: Ap1
 favicon: null
 layout_spectrum: 0.8
+title: Apartamento 101
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-373256-8
   facebook: null
   twitter: null
 opengraph:
