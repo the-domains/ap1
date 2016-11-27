@@ -1,20 +1,4 @@
-name: Ap1
-favicon: null
-layout_spectrum: 0.87813
 typography_spectrum: 0.30872
-title: Apartamento 101
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-373256-8
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1f1a17'
@@ -26,7 +10,22 @@ color:
   lightness: 0.75
   saturation: 0.875
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: 793ac29a-fa4c-404a-a461-484ab7ff467f
-    url: null
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87813
+analytics:
+  google: UA-373256-8
+  facebook: null
+  twitter: null
+name: Ap1
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Apartamento 101
+content: []
+purpose: []
